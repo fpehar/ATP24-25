@@ -1,6 +1,6 @@
 # Akademsko i tehničko pisanje, akad. god. 2024.-2025.
 
-Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com/) za izradu jednostavnih stranica i dokumentacije.
+Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com/) za izradu jednostavnih stranica i dokumentacije!
 
 GitHub je mrežno sjedište koje omogućava pohranu Git repozitorija na internetu. Git omogućava upravljanje privatnim i javnim repozitorijima koji se mogu dijeliti s drugih korisnicima.
 
@@ -25,3 +25,7 @@ GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Stud
 - Pull request
 
 Današnji [zadaci](zadaci_20241031.md)
+
+[Sveučilište u Zadru](https://www.unizd.hr)
+
+[GitHub tutorial](tutorial.md)
