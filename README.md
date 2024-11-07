@@ -6,6 +6,7 @@ GitHub je mrežno sjedište koje omogućava pohranu Git repozitorija na internet
 
 GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Studentski račun možete otvoriti na sljedećoj adresi:<https://education.github.com/students> ili <https://education.github.com/discount_requests/student_application>
 
+ovdije je promjena!
 ## Dodavanje datoteka u dijeljeni repozitorij
 - Dodajte novu datoteku u dijeljeni repozitorij
 - Imenujte datoteku VašeImePrezime.md
